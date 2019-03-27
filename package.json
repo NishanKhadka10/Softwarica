@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NishanKhadka10/Softwarica/issues"
   },
-  "homepage": "https://github.com/NishanKhadka10/Softwarica#readme"
+  "homepage": "https://github.com/NishanKhadka10/Softwarica#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
